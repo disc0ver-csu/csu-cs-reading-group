@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 source /etc/profile
 ORG=disc0ver-csu
-REPO=csu-cs-wiki
+REPO=csu-cs-reading-group
 # Baidu Pusher 
 
 # Sitemap Parser

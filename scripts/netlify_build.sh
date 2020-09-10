@@ -10,7 +10,7 @@
 
 # Fill this out with the correct org/repo
 Disc0ver
-REPO=csu-cs-wiki
+REPO=csu-cs-reading-group
 # This probably should match an email for one of your users.
 EMAIL=csulmw@163.com
 

@@ -4,6 +4,8 @@
 
 为帮助正在科研、有科研倾向的学生（以本科生为主）了解计算机科学领域发展前沿，以论文分享会为主要活动构建的小组，暂时归属在 [Disc0ver](https://github.com/disc0ver-csu) 组织下。
 
+本小组受到 [USTC-SYS Reading Group](http://210.45.114.146/wiki/doku.php?id=public:rg:readinggroup) 的启发，非常感谢 Cheng Li 老师给予的帮助与支持。Give credits to USTC-SYS Reading Group!
+
 ## 意义
 
 ReadingGroup 仍然属于 Disc0ver 组织[知识共享平台](https://github.com/disc0ver-csu/csu-cs-wiki)的一部分，参与者每周可利用 ReadingGroup 的线上会议获取计算机科学领域不同方向的新知。更细致的讲，根据参与者身份不同，收获也不尽相同：
@@ -25,6 +27,7 @@ ReadingGroup 仍然属于 Disc0ver 组织[知识共享平台](https://github.com
 
 ## 时间表
 
-| Date        | Discussion Leads | Venue       | Paper Name                                                       | Paper link | Talk Slides | Video |
-| :---------- | :--------------- | :---------- | :--------------------------------------------------------------- | :--------- | :---------- | :---- |
-| Sep.12.2020 | Chuannan Zhang   | Commun. ACM | Time, Clocks, and the Ordering of Events in a Distributed System | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf)| |
+| Date        | Discussion Leads | Venue            | Paper Name                                                       | Paper link                                                                                                                                      | Talk Slides | Video |
+| :---------- | :--------------- | :--------------- | :--------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :---------- | :---- |
+| Sep.12.2020 | Chuannan Zhang   | Commun. ACM 1978 | Time, Clocks, and the Ordering of Events in a Distributed System | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf) |             |
+| Sep.12.2020 | Ziping Ma        | NIPS'14          | Generative Adversarial Nets                                      | [paper](https://arxiv.org/pdf/1406.2661.pdf)                                                                                                    |

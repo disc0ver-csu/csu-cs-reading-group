@@ -13,5 +13,3 @@ edit_uri: "https://disc0ver-csu.github.io/csu-cs-reading-group/edit-landing/?ref
 # pages
 nav:
   - Reading Group: reading-group.md
-  - About:
-      - 关于我们: index.md

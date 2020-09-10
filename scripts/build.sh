@@ -5,7 +5,7 @@
 ORG=disc0ver-csu
 REPO=csu-cs-wiki
 # This probably should match an email for one of your users.
-EMAIL=csulmw@163.com
+EMAIL=edwardzcn98@gmail.com
 
 set -e
 

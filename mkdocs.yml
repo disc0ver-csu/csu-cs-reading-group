@@ -1,0 +1,21 @@
+site_name: CSU CS Reading Group
+site_description: CSU CS Reading Group
+site_author: Disc0ver
+site_url: https://disc0ver-csu.github.io/csu-cs-reading-group
+# site_favicon: favicon-orange.png
+strict: true
+
+# Repository
+repo_name: "csu-cs-reading-group"
+repo_url: "https://github.com/disc0ver-csu/csu-cs-reading-group"
+edit_uri: ""
+
+# pages
+nav:
+  - Reading Group: index.md
+
+extra_css:
+  - "_static/css/extra.css"
+
+plugins:
+  - search

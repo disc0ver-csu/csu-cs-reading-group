@@ -2,7 +2,7 @@ site_name: CSU CS Reading Group
 site_description: CSU CS Reading Group
 site_author: Disc0ver
 site_url: https://disc0ver-csu.github.io/csu-cs-reading-group
-# site_favicon: favicon-orange.png
+# site_favicon: Disc0ver-orange.png
 strict: true
 
 # Repository

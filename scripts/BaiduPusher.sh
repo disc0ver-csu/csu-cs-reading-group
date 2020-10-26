@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 source /etc/profile
 ORG=disc0ver-csu
 REPO=csu-cs-reading-group

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # Push HTML files to gh-pages automatically.
 
 # Fill this out with the correct org/repo
